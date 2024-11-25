@@ -1,3 +1,4 @@
 library.json
 venv/
+__pycache__/
 .vscode/
